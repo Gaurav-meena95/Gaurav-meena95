@@ -1,18 +1,147 @@
-# 💫 About Me:
-Gaurav Meena<br>Phone: +917724014495<br>Email: gaurav.meena2024@nst.rishihood.edu.in <br>PROFESSIONAL SUMMARY<br>Full-stack developer with experience building practical web applications that solve problems.I have solved 350+LeetCode<br>problems to enhance problem-solving skills. I have developed tech skills with the help of trending AI tools and gained industry<br>experience as a Frontend Developer Intern at Gistly AI,I showcased my skills to develop product features and fix issues.<br>INTERNSHIPS<br>Frontend Developer May 2025 - July 2025<br>Gistly Ai Remote<br>Collaborated with teams to build reusable, optimised code while fixing bugs and following professional coding standards.<br>CERTIFICATIONS<br>MumbaiHacks 2025-Agentic AI Hackathon Tech Entrepreneurs Association of Mumbai ( Link ) November 2025<br>A voice-based soil advisory system that helps farmers solve common problems using AI to make better decisions.<br>Supercontributor – Hacktoberfest 2025 (DigitalOcean) DigitalOcean ( Link ) September 2025<br>Done open-source and contributed 6+ PRs merged during Hacktoberfest, earning a global top 10,000 contributor badge.<br>EXTRA-CURRICULAR ACTIVITIES<br>Samsung Bootcamp at IIT Delhi (2023):-Learn Pitched, my JNV food-waste idea and built a simple manure solution.
+# 💫 About Me
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_gaur_a_v__) [![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://www.linkedin.com/in/gaurav-meena-3917b2323/))]
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gaurav-meena95&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Gaurav-meena95&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-meena95&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Gaurav Meena  
+Phone: +91 7724014495  
+Email: gaurav.meena2024@nst.rishihood.edu.in  
+[LinkedIn](https://www.linkedin.com/in/gaurav-meena-3917b2323/) | [GitHub](https://github.com/Gaurav-meena95) | [LeetCode](https://leetcode.com/)  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Gaurav-meena95&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+##  Professional Summary
+
+I am a **Full Stack Developer** with strong foundations in **modern web development and problem-solving**, backed by **350+ solved LeetCode problems**. I focus on building **practical, production-oriented applications** that solve real-world problems rather than tutorial-based projects.
+
+I have hands-on industry experience as a **Frontend Developer Intern at Gistly AI**, where I worked on real product features, bug fixes, and performance improvements while following professional coding standards and collaborative workflows.
+
+Currently pursuing **B.Tech in Artificial Intelligence (2024–2028)**, I actively build scalable applications using **React, Node.js, Express, and modern databases**.
+
+---
+
+##  Core Strengths
+
+- Strong Data Structures & Algorithms foundation  
+- End-to-end full-stack development  
+- Clean, reusable, and maintainable code  
+- API-driven architecture & authentication  
+- UI/UX focused frontend development  
+- Agile and remote team collaboration  
+
+---
+
+##  Experience
+
+### **Frontend Developer Intern**  
+**Gistly AI** — Remote  
+**May 2025 – July 2025**
+
+**Key Contributions**
+- Built and optimized reusable frontend components using React  
+- Fixed production bugs and improved UI performance  
+- Followed professional coding standards, Git workflows, and code reviews  
+- Collaborated with developers and designers to deliver features  
+
+**Impact**
+- Improved maintainability and stability of the product  
+- Gained real-world experience working on a live production system  
+
+---
+
+## Projects
+
+### **Jewel Track — Jewelry Shop Management System**  December 2025  
+ [GitHub](https://github.com/Gaurav-meena95/JewelTrack) | [Demo](https://jewel-track-chi.vercel.app/)  
+
+**Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS  
+
+- Built a full-stack management system inspired by a real family-run jewelry business  
+- Implemented customer search, billing, collateral tracking, orders, and notifications  
+- Reduced dependency on manual and paper-based records  
+- Added automated customer alerts for order updates and pending payments  
+
+**Outcome:**  
+Digitized daily operations and significantly reduced time spent on customer management.
+
+---
+
+### **Quick Serve — Real-Time Ordering & Tracking System**  October 2025  
+ [GitHub](https://github.com/Gaurav-meena95/capstone_03_QuickServe) | [Demo](https://capstone-03-quick-serve.vercel.app/)  
+
+**Tech Stack:** React, Node.js, Express, PostgreSQL, Tailwind CSS  
+
+- Developed a real-time ordering and tracking system  
+- Implemented menu browsing, order placement, token generation, and live tracking  
+- Designed backend APIs and database schemas for queue-based order handling  
+
+**Outcome:**  
+Improved operational efficiency and customer visibility in order tracking.
+
+---
+
+## Education
+
+### **Bachelor of Technology — Artificial Intelligence**  
+**Newton School of Technology, Rishihood University**  
+*2024 – 2028*  
+**CGPA:** 7.2 / 10  
+
+---
+
+##  Certifications & Achievements
+
+### **MumbaiHacks 2025 — Agentic AI Hackathon**  
+*Tech Entrepreneurs Association of Mumbai* — November 2025  
+
+- Built a voice-based soil advisory system inspired by real farming challenges  
+- Applied AI-driven decision support to improve farmer decision-making  
+
+---
+
+### **Supercontributor — Hacktoberfest 2025**  
+**DigitalOcean** — September 2025  
+
+- Successfully merged 6+ PRs in open-source repositories  
+- Ranked among the top 10,000 contributors globally  
+
+---
+
+##  Extra-Curricular & Leadership
+
+- **Samsung Bootcamp, IIT Delhi (2023):**  
+  Pitched a food-waste solution and built a basic manure prototype  
+
+- **NCC Cadet:**  
+  Developed discipline, leadership, and teamwork  
+
+- **2× National-Level Cricket Player (2018, 2019):**  
+  Learned consistency, teamwork, and performance under pressure  
+
+---
+
+##  Tech Stack
+
+**Languages:**  
+JavaScript, TypeScript, Python, SQL, HTML, CSS  
+
+**Frontend:**  
+React, Next.js, Tailwind CSS, Bootstrap, Framer Motion  
+
+**Backend:**  
+Node.js, Express.js, JWT  
+
+**Databases:**  
+MongoDB, PostgreSQL, MySQL, Prisma ORM  
+
+**Tools & Platforms:**  
+Git, GitHub, GitHub Actions, Postman, Vercel, Render, Netlify, Firebase, Figma  
+
+---
+
+##  GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurav-meena95&theme=dark&hide_border=false)  
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Gaurav-meena95&theme=dark&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-meena95&theme=dark&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Gaurav-meena95&icon=0&color=0)](https://visitcount.itsvg.in)
