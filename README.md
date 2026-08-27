@@ -1,147 +1,72 @@
-# 💫 About Me
+![header](https://capsule-render.vercel.app/api?type=wave&color=12151c&height=240&section=header&text=Hi%2C%20I%27m%20Gaurav&fontSize=62&fontColor=f0a428&animation=fadeIn&desc=Full-Stack%20Developer%20%26%20AI%20Engineer&descSize=22&descAlignY=72)
 
-## Gaurav Meena  
-Phone: +91 7724014495  
-Email: gaurav.meena2024@nst.rishihood.edu.in  
-[LinkedIn](https://www.linkedin.com/in/gaurav-meena-3917b2323/) | [GitHub](https://github.com/Gaurav-meena95) | [LeetCode](https://leetcode.com/)  
+### Building Intelligent Full-Stack & AI Systems ⚡
 
----
+Full-stack developer building practical web and mobile products that solve real problems. **400+ LeetCode problems solved**, with a focus on building resilient backend architectures, AI agent workflows, and intuitive frontend experiences.
 
-##  Professional Summary
-
-I am a **Full Stack Developer** with strong foundations in **modern web development and problem-solving**, backed by **350+ solved LeetCode problems**. I focus on building **practical, production-oriented applications** that solve real-world problems rather than tutorial-based projects.
-
-I have hands-on industry experience as a **Frontend Developer Intern at Gistly AI**, where I worked on real product features, bug fixes, and performance improvements while following professional coding standards and collaborative workflows.
-
-Currently pursuing **B.Tech in Artificial Intelligence (2024–2028)**, I actively build scalable applications using **React, Node.js, Express, and modern databases**.
+- 🤖 **AI & Automation**: Built autonomous form-filling agents using LangGraph, Playwright, Groq (Llama 3.3 70B), and RAG.
+- 📱 **Web & Mobile Production**: Shipped core booking features, dark mode, and UI flows at **Travel Buddy** & engagement systems for 1,000+ users at **Carmaacarcare**.
+- 🌐 **Open Source**: **Supercontributor** at **Hacktoberfest 2025** (DigitalOcean) — top 10,000 global ranking with 6+ merged PRs.
+- 🏆 **MumbaiHacks 2025**: Developed a voice-based soil advisory system at the Agentic AI Hackathon.
 
 ---
 
-##  Core Strengths
+### 🚀 Featured Projects
 
-- Strong Data Structures & Algorithms foundation  
-- End-to-end full-stack development  
-- Clean, reusable, and maintainable code  
-- API-driven architecture & authentication  
-- UI/UX focused frontend development  
-- Agile and remote team collaboration  
+#### **[JewelTrack — Smart Jewellery Management System](https://github.com/Gaurav-meena95/JewelTrack)**
+*Full-stack business management ERP digitizing inventory, billing, custom orders, and collateral workflows.*
+- **Tech Stack:** `React.js` · `Node.js` · `Express.js` · `MongoDB` · `Tailwind CSS` · `JWT`
+- Role-based access control (RBAC), automated customer payment alerts, and digitized paper workflows.
+- 🔗 [Live Demo](https://jewel-track-chi.vercel.app/) · 💻 [GitHub Repository](https://github.com/Gaurav-meena95/JewelTrack)
 
----
+<a href="https://github.com/Gaurav-meena95/JewelTrack">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gaurav-meena95&repo=JewelTrack&hide_border=true&bg_color=12151c&title_color=f0a428&icon_color=f0a428&text_color=9aa3b2" alt="JewelTrack" />
+</a>
 
-##  Experience
+#### **[Form Filling Agent — Autonomous Web Automation](https://github.com/Gaurav-meena95)**
+*Autonomous AI agent automating complex web forms using resume/context understanding and field-aware mapping.*
+- **Tech Stack:** `FastAPI` · `React` · `LangGraph` · `Playwright` · `Groq (Llama 3.3 70B)` · `ChromaDB`
+- Field-aware mapping, prompt optimization, structured JSON outputs, and dynamic multi-step browser automation.
 
-### **Frontend Developer Intern**  
-**Gistly AI** — Remote  
-**May 2025 – July 2025**
+#### **[QuickServe — Real-Time Ordering & Tracking System](https://github.com/Gaurav-meena95/capstone_03_QuickServe)**
+*Real-time queue-based ordering and token fulfillment system.*
+- **Tech Stack:** `React` · `Node.js` · `Express` · `PostgreSQL` · `Tailwind CSS`
+- 🔗 [Live Demo](https://capstone-03-quick-serve.vercel.app/) · 💻 [GitHub Repository](https://github.com/Gaurav-meena95/capstone_03_QuickServe)
 
-**Key Contributions**
-- Built and optimized reusable frontend components using React  
-- Fixed production bugs and improved UI performance  
-- Followed professional coding standards, Git workflows, and code reviews  
-- Collaborated with developers and designers to deliver features  
-
-**Impact**
-- Improved maintainability and stability of the product  
-- Gained real-world experience working on a live production system  
-
----
-
-## Projects
-
-### **Jewel Track — Jewelry Shop Management System**  December 2025  
- [GitHub](https://github.com/Gaurav-meena95/JewelTrack) | [Demo](https://jewel-track-chi.vercel.app/)  
-
-**Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS  
-
-- Built a full-stack management system inspired by a real family-run jewelry business  
-- Implemented customer search, billing, collateral tracking, orders, and notifications  
-- Reduced dependency on manual and paper-based records  
-- Added automated customer alerts for order updates and pending payments  
-
-**Outcome:**  
-Digitized daily operations and significantly reduced time spent on customer management.
+<a href="https://github.com/Gaurav-meena95/capstone_03_QuickServe">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gaurav-meena95&repo=capstone_03_QuickServe&hide_border=true&bg_color=12151c&title_color=f0a428&icon_color=f0a428&text_color=9aa3b2" alt="QuickServe" />
+</a>
 
 ---
 
-### **Quick Serve — Real-Time Ordering & Tracking System**  October 2025  
- [GitHub](https://github.com/Gaurav-meena95/capstone_03_QuickServe) | [Demo](https://capstone-03-quick-serve.vercel.app/)  
+### 💼 Experience
 
-**Tech Stack:** React, Node.js, Express, PostgreSQL, Tailwind CSS  
+- **Full Stack Developer** at **Travel Buddy** *(May 2026 – Present)* — Flight & bus booking systems, selfie verification, dark mode, and mobile enhancements.
+- **Web Developer Intern (Cloud & DevOps)** at **Carmaacarcare** *(March 2026 – Present)* — Reward system, top-bar weather updates, and onboarding flows for 1,000+ active users.
+- **Frontend Developer Intern** at **Gistly AI** *(May 2025 – July 2025)* — Built modular React components, resolved production bugs, and improved UI performance.
+- **B.Tech in Artificial Intelligence** at **Newton School of Technology, Rishihood University** *(2024 – 2028)*.
 
-- Developed a real-time ordering and tracking system  
-- Implemented menu browsing, order placement, token generation, and live tracking  
-- Designed backend APIs and database schemas for queue-based order handling  
-
-**Outcome:**  
-Improved operational efficiency and customer visibility in order tracking.
+💼 [linkedin.com/in/gaurav-meena](https://www.linkedin.com/in/gaurav-meena-3917b2323/) · 💻 [LeetCode](https://leetcode.com/) · ✉️ [gaurav.meena2024@nst.rishihood.edu.in](mailto:gaurav.meena2024@nst.rishihood.edu.in) · 📱 +91 7724014495
 
 ---
 
-## Education
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gaurav-meena95&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=12151c&title_color=f0a428&icon_color=f0a428&text_color=9aa3b2&ring_color=f0a428&v=2" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-meena95&layout=compact&langs_count=8&hide_border=true&bg_color=12151c&title_color=f0a428&text_color=9aa3b2&v=2" alt="Top languages" />
+</p>
 
-### **Bachelor of Technology — Artificial Intelligence**  
-**Newton School of Technology, Rishihood University**  
-*2024 – 2028*  
-**CGPA:** 7.2 / 10  
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Gaurav-meena95&hide_border=true&hide_total_contributions=true&background=12151c&ring=f0a428&fire=f0a428&currStreakLabel=f0a428&sideLabels=9aa3b2&currStreakNum=f2f4f8&sideNums=f2f4f8&dates=6b7280" alt="Contribution streak" />
+</p>
 
----
+### 🛠️ Tech Stack
 
-##  Certifications & Achievements
-
-### **MumbaiHacks 2025 — Agentic AI Hackathon**  
-*Tech Entrepreneurs Association of Mumbai* — November 2025  
-
-- Built a voice-based soil advisory system inspired by real farming challenges  
-- Applied AI-driven decision support to improve farmer decision-making  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,fastapi,express,postgres,mongodb,mysql,prisma,tailwind,figma,postman,git,github,firebase&theme=dark" alt="Tech stack" />
+</p>
 
 ---
 
-### **Supercontributor — Hacktoberfest 2025**  
-**DigitalOcean** — September 2025  
-
-- Successfully merged 6+ PRs in open-source repositories  
-- Ranked among the top 10,000 contributors globally  
-
----
-
-##  Extra-Curricular & Leadership
-
-- **Samsung Bootcamp, IIT Delhi (2023):**  
-  Pitched a food-waste solution and built a basic manure prototype  
-
-- **NCC Cadet:**  
-  Developed discipline, leadership, and teamwork  
-
-- **2× National-Level Cricket Player (2018, 2019):**  
-  Learned consistency, teamwork, and performance under pressure  
-
----
-
-##  Tech Stack
-
-**Languages:**  
-JavaScript, TypeScript, Python, SQL, HTML, CSS  
-
-**Frontend:**  
-React, Next.js, Tailwind CSS, Bootstrap, Framer Motion  
-
-**Backend:**  
-Node.js, Express.js, JWT  
-
-**Databases:**  
-MongoDB, PostgreSQL, MySQL, Prisma ORM  
-
-**Tools & Platforms:**  
-Git, GitHub, GitHub Actions, Postman, Vercel, Render, Netlify, Firebase, Figma  
-
----
-
-##  GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurav-meena95&theme=dark&hide_border=false)  
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Gaurav-meena95&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-meena95&theme=dark&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Gaurav-meena95&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Gaurav-meena95&icon=0&color=0" alt="Profile views" />
+</p>
