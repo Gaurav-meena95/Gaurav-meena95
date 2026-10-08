@@ -5,7 +5,7 @@
 Full-stack developer building practical web & mobile products that solve real-world problems. **400+ LeetCode problems solved**, with a strong focus on autonomous AI workflows, robust backend architecture, and production engineering:
 
 - **[Form Filling Agent](https://github.com/Gaurav-meena95)** — Autonomous AI agent automating complex web forms using LangGraph, Playwright, Groq (Llama 3.3 70B), and RAG (ChromaDB).
-- **[JewelTrack](https://github.com/Gaurav-meena95/JewelTrack)** ([Live Demo](https://jewel-track-chi.vercel.app/)) — Full-stack jewelry business ERP digitizing inventory, billing, custom orders, collateral, and payment tracking.
+- **[JewelTrack](https://github.com/Gaurav-meena95/JewelTrack)** ([Live Demo](https://jewel-track-topaz.vercel.app/)) — Full-stack jewelry business ERP digitizing inventory, billing, custom orders, collateral, and payment tracking.
 - **[QuickServe](https://github.com/Gaurav-meena95/capstone_03_QuickServe)** ([Live Demo](https://capstone-03-quick-serve.vercel.app/)) — Real-time queue-based ordering & live token tracking system.
 
 👉 Check out my projects on [GitHub](https://github.com/Gaurav-meena95) and explore live demos!
